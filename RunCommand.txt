@@ -1,0 +1,2 @@
+Please use below command in the terminal to run.
+chainlit run LlamaChatModel.py -w
