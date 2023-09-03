@@ -20,4 +20,4 @@ def CreateVectorDB():
 
 if __name__ == "__main__":
     print("Vector Database creation in progress.")
-    CreateVectorDB()
+    #CreateVectorDB()
