@@ -19,4 +19,5 @@ def CreateVectorDB():
     db.save_local(DB_FAISS_PATH)
 
 if __name__ == "__main__":
+    print("Vector Database creation in progress.")
     CreateVectorDB()
